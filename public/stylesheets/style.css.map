@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "AAEA,AAAA,IAAI,CAAC;EACD,UAAU,EAAE,KAAK;CACpB;;AAED,AAAA,EAAE,CAAC;EACC,KAAK,ECPD,IAAI;EDQR,SAAS,ECNH,KAAK;CDOd;;AAED,AAAA,CAAC,CAAC;EACE,KAAK,ECXK,WAAW;EDYrB,OAAO,ECVK,IAAI;CDWnB",
+    "sources": [
+        "style.scss",
+        "sass-box/variables.scss"
+    ],
+    "names": [],
+    "file": "style.css"
+}
